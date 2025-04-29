@@ -56,7 +56,7 @@ OtoSmartaX adalah konsep aplikasi mobile berbasis UI/UX yang dirancang untuk mem
 ## 🛠️ Tools yang Digunakan
 
 - **Figma** – Desain wireframe & prototipe
-- **Google Docs / Word** – Dokumentasi laporan
+- **Word** – Dokumentasi laporan
 - **Excel** – Analisis kebutuhan & timeline
 - **GitHub** – Penyimpanan dan dokumentasi proyek
 - **Trello / Notion** – Perencanaan dan pembagian tugas
