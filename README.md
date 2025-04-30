@@ -57,7 +57,7 @@ OtoSmartaX adalah konsep aplikasi mobile berbasis UI/UX yang dirancang untuk mem
 ## 🛠️ Tools yang Digunakan
 
 - **Figma** – Desain wireframe & prototipe
-- **Canva** – Desain Persona, Peta Empati, & User Journey Map
+- **Canva** – Desain persona, peta empati, & user journey map
 - **Word** – Dokumentasi laporan
 - **Excel** – Analisis kebutuhan & timeline
 - **GitHub** – Penyimpanan dan dokumentasi proyek
