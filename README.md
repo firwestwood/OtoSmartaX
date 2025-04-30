@@ -23,6 +23,7 @@ OtoSmartaX adalah konsep aplikasi mobile berbasis UI/UX yang dirancang untuk mem
 │ │ 📄 Dokumen Analisis Kebutuhan.xlsx
 │ │ 📄 Dokumen Problem Statement & Background.pdf
 │ │ 📄 Dokumen Project Management.xlsx
+│ │ 📄 Draft Jurnal Ilmiah.docx
 │ │ 📄 Evaluasi Heuristik.xlsx
 │ │ 📄 Laporan Riset Pengguna.pdf
 │ │ 📄 Persona.pdf
@@ -56,6 +57,7 @@ OtoSmartaX adalah konsep aplikasi mobile berbasis UI/UX yang dirancang untuk mem
 ## 🛠️ Tools yang Digunakan
 
 - **Figma** – Desain wireframe & prototipe
+- **Canva** – Desain Persona, Peta Empati, & User Journey Map
 - **Word** – Dokumentasi laporan
 - **Excel** – Analisis kebutuhan & timeline
 - **GitHub** – Penyimpanan dan dokumentasi proyek
