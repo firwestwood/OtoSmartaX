@@ -13,7 +13,7 @@ Proyek ini dikembangkan oleh **Mahasiswa Teknologi Informasi Telkom University J
 
 ## 🧠 Tujuan Proyek
 
-OtoSmartaX adalah konsep aplikasi mobile berbasis UI/UX yang dirancang untuk membantu pengguna dalam **mengelola dan membayar pajak kendaraan bermotor secara digital**. Proyek ini berfokus pada pendekatan **user-centered design** dan diharapkan menghasilkan artefak yang dapat dipublikasikan dalam bentuk **jurnal ilmiah**.
+OtoSmartaX adalah konsep aplikasi mobile berbasis UI/UX yang dirancang sebagai solusi aplikasi terintegrasi layanan digital urban di Indonesia. Proyek ini berfokus pada pendekatan **user-centered design** dan diharapkan menghasilkan artefak yang dapat dipublikasikan dalam bentuk **jurnal ilmiah**.
 
 ---
 
